@@ -3,6 +3,7 @@
   <Folder Name="/Элементы решения/">
     <File Path="../../тестовое.md" />
     <File Path="docker-compose.yml" />
+    <File Path="README.md" />
   </Folder>
   <Project Path="src/Server/Server.csproj" />
   <Project Path="src/Tests/Tests.csproj" />
