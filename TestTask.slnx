@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/Элементы решения/">
+    <File Path="../../тестовое.md" />
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="src/Server/Server.csproj" />
+  <Project Path="src/Tests/Tests.csproj" />
+</Solution>
